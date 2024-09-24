@@ -1,10 +1,13 @@
-Dio - Modelando o iPhone com UML: Funções de Músicas, Chamadas e Internet
-![UML_Mermaid](./mermaid-diagram-2024-09-24-001726.png).
+Dio - Modelando o iPhone com UML: Funções de Músicas, Chamadas e Internet.
+
+#PNG UML Mermaid
+![UML_Mermaid](https://github.com/WendelTytan/DIO_UML-Iphone/blob/main/mermaid-diagram-2024-09-24-001823.png?raw=true).
 
 #Codigo UML Mermaid
-
+```mermaid
 classDiagram
     class IPhone {
+
     }
 
     class ReprodutorMusical {
@@ -71,3 +74,4 @@ classDiagram
 
     NavegadorInternet <-- FireFox
     NavegadorInternet <-- Safari
+```
